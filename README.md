@@ -5,6 +5,7 @@
 ### Project Name : Trip
 ### Project Type : Web
 ### Theme : Typography
+### Project Date : 2021(고3)
 
 <br/>
 
@@ -15,15 +16,24 @@
 
 ## Session Description
 ### Bubble
-![Bubble](https://github.com/user-attachments/assets/19aacd95-edf5-4d3e-b1b3-83880b6445a4)
+
+<img src="https://github.com/user-attachments/assets/19aacd95-edf5-4d3e-b1b3-83880b6445a4" width="600">
+
+평소에 마트나 편의점에 파는 풍선껌을 타이포그래피로 바꾸었습니다! 마우스로 클릭하면 터뜨릴 수 있어요!
+
 
 <br/>
 
 ### Code
-![Code](https://github.com/user-attachments/assets/b802e387-5309-4582-9c82-eab1bbae40d0)
+
+<img src="https://github.com/user-attachments/assets/b802e387-5309-4582-9c82-eab1bbae40d0" width="600">
+
+항상 읽기 힘든 난잡한 프로그래밍을 시각화했어요. 마우스를 가져와 글자를 읽어보세요!
 
 <br/>
 
 ### Fish
-![Fish](https://github.com/user-attachments/assets/6a973c10-4abd-4c5c-a92e-45910375e0f5)
 
+<img src="https://github.com/user-attachments/assets/6a973c10-4abd-4c5c-a92e-45910375e0f5" width="600">
+
+글자로 된 낚싯대로 물고기들을 낚아보세요!
