@@ -5,7 +5,7 @@
 ### Project Name : Trip
 ### Project Type : Web
 ### Theme : Typography
-### Project Date : 2021(고3)
+### Project Date : 2020(고2)
 
 <br/>
 
